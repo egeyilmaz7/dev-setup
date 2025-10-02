@@ -1,0 +1,4 @@
+theme = Nvim Dark
+font-family = FiraCode Nerd Font
+font-size = 19
+window-decoration = false
