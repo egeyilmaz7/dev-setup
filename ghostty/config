@@ -1,4 +1,4 @@
-theme = Nvim Dark
+theme = Nightfox
 font-family = FiraCode Nerd Font
-font-size = 19
-window-decoration = false
+font-size = 21
+
